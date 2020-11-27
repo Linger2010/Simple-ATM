@@ -10,7 +10,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-Written by: Yaling Liu
+Written by: Linger2010
 
 This is an ATM with client and server sides. It is designed to support one bank account and one user. Multiple users are not allowed. 
 
