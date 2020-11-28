@@ -1,6 +1,3 @@
-# Yaling Liu
-# Std No. 010945821
-
 import binascii
 import struct
 import sys
