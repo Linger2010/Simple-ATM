@@ -32,3 +32,7 @@ The account is initialized with a balance of 100$. The following commands are av
 Note that for any input from the user, only integers within certain range are allowed. For example, the amount of money that is to be withdrawn cannot exceed the current balance.
 After choosing to exit the program, users can start the client-side again, and the balance stays persistent.
 To shut down the program, the server-side should be disconnected.
+
+CREDITS
+-------------
+This is a homework assignment for CSCE 4753 Computer Networks instructed by Dr. Dale Thompson.
